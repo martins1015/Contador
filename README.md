@@ -1,2 +1,1 @@
-# Contador
- 
+Contador com interface interativa 
